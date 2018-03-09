@@ -15,6 +15,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--meta responsive-->
     
     <!--START CSS--> 
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/nicdark_style.css"> <!--style-->
     <link rel="stylesheet" href="css/nicdark_responsive.css"> <!--nicdark_responsive-->
@@ -28,7 +29,7 @@
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'> <!-- font-family: 'Montserrat', sans-serif; -->
     <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'> <!-- font-family: 'Raleway', sans-serif; -->
     <link href='http://fonts.googleapis.com/css?family=Montez' rel='stylesheet' type='text/css'> <!-- font-family: 'Montez', cursive; -->
-    <link rel="stylesheet" href="css/style.css">
+    
     <!--[if lt IE 9]>  
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>  
     <![endif]-->  

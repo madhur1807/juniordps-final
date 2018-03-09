@@ -14,13 +14,12 @@
     <meta name="author" content="nicdark"> <!--insert your name here-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--meta responsive-->
      <!-- boostrap -->
+     <link rel="stylesheet" href="css/style.css">
      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <!--START CSS--> 
      <!-- boostrap -->
     <link rel="stylesheet" href="css/nicdark_style.css"> <!--style-->
     <link rel="stylesheet" href="css/nicdark_responsive.css"> <!--nicdark_responsive-->
-
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <!--revslider-->
     <link rel="stylesheet" href="css/revslider/settings.css"> <!--revslider-->
    
