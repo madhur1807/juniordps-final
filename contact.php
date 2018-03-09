@@ -243,7 +243,7 @@
     <!--menu-->
     <script src="js/plugins/menu/superfish.min.js"></script> <!--superfish-->
     <script src="js/plugins/menu/tinynav.min.js"></script> <!--tinynav-->
-
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <!--other-->
     <script src="js/plugins/isotope/isotope.pkgd.min.js"></script> <!--isotope-->
     <script src="js/plugins/mpopup/jquery.magnific-popup.min.js"></script> <!--mpopup-->
