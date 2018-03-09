@@ -13,7 +13,8 @@
     <meta name="description" content="nicdark Framework"> <!--insert your description here-->  
     <meta name="author" content="nicdark"> <!--insert your name here-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--meta responsive-->
-    
+     <!-- boostrap -->
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <!--START CSS--> 
      <!-- boostrap -->
     <link rel="stylesheet" href="css/nicdark_style.css"> <!--style-->

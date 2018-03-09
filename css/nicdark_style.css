@@ -179,19 +179,19 @@ select.big { font-size: 17px; padding: 15px 10%; }
 .nicdark_parallaxx_img-events { background: url(../img/parallax/img-events.jpg) 50% 0 fixed; background-size:cover; }
 .nicdark_parallaxx_img-single-event { background: url(../img/parallax/img-single-event.jpg) 50% 0 fixed; background-size:cover; }
 /*END CLASS FOR PARALLAX SECTION*/
-.sub-menu{
+.footer-menu{
     width: 45%;
     margin: 10px 4px;
     padding: 0;
     display: inline-block;
 }
-.sub-menu li{
+.footer-menu li{
     list-style-type: none;
     background: #353b3d;
     margin: 10px 0;
     padding: 7px;
 }
-.sub-menu li a{
+.footer-menu li a{
     color: #ddd;
     display: block;
     font-size: 13px;

@@ -13,11 +13,12 @@
     <meta name="description" content="nicdark Framework"> <!--insert your description here-->  
     <meta name="author" content="nicdark"> <!--insert your name here-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--meta responsive-->
-    
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <!--START CSS--> 
     <link rel="stylesheet" href="css/nicdark_style.css"> <!--style-->
     <link rel="stylesheet" href="css/nicdark_responsive.css"> <!--nicdark_responsive-->
-
+    
     <!--revslider-->
     <link rel="stylesheet" href="css/revslider/settings.css"> <!--revslider-->
 

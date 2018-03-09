@@ -111,7 +111,9 @@ JQUERY UI
 }
 /*END NICDARKBG*/
 
-
+a{
+	text-decoration: none!important;
+}
 .padding{
 	padding: 20px;
 }
@@ -208,7 +210,16 @@ li{
 .nicdark_btn.small{ padding: 5px 10px; font-size: 15px; }
 .nicdark_btn.medium{ padding: 10px 20px; font-size: 14px; }
 .nicdark_btn.big{ padding: 15px 20px; font-size: 19px; }
-.nicdark_btn.extrasize{ padding: 20px; font-size: 45px; line-height: 45px; }
+.nicdark_btn.extrasize{     
+	padding: 0px;
+    width: 80px;
+    height: 70px;
+    font-size: 45px;
+	line-height: 70px;}
+.nicdark_focus a{
+	text-decoration: none;
+	cursor: pointer;
+}	
 /*END NIKBTN*/
 
 

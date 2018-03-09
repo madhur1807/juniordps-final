@@ -40,13 +40,13 @@
                 <div class="nicdark_divider left small"><span class="nicdark_bg_white nicdark_radius"></span></div>
             </div>
             <div class="nicdark_space10"></div>
-            <ul class="sub-menu">
+            <ul class="sub-menu footer-menu">
                 <li class="nicdark_shadow nicdark_radius"><a href="about-us.php">ABOUT</a></li>
                 <li class="nicdark_shadow nicdark_radius"><a href="all-events.php">EVENTS</a></li>
                 <li class="nicdark_shadow nicdark_radius"><a href="infrastructure.php">INFRASTRUCTRE</a></li>
                 <li class="nicdark_shadow nicdark_radius"><a href="javascript:void(0)">PRIVACY</a></li>
             </ul>
-            <ul class="sub-menu">
+            <ul class="sub-menu footer-menu">
                 <li class="nicdark_shadow nicdark_radius"><a href="courses.php">COURSES</a></li>
                 <li class="nicdark_shadow nicdark_radius"><a href="all-teachers.php">TEACHERS</a></li>
                 <li class="nicdark_shadow nicdark_radius"><a href="franchise.php">FRANCHISE</a></li>

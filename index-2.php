@@ -15,7 +15,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--meta responsive-->
     
     <!--START CSS--> 
-    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/nicdark_style.css"> <!--style-->
     <link rel="stylesheet" href="css/nicdark_responsive.css"> <!--nicdark_responsive-->
 
@@ -974,109 +974,7 @@
 <!--end section-->        </div>
     </div>
 <!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog" role="document" style="width:65%;">
-            <div class="modal-content" style="overflow:hidden">
-            <div class="modal-header center nicdark_bg_greydark " style="padding:5px;">
-                <div class="nicdark_margin20">
-                    <h4 class="white">Our Branches</h4>
-                </div>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body" style="padding:0;">
-                <div class="nicdark_space3 nicdark_bg_gradient"></div>  
-                <div class="container-fluid center">
-                    <div class="col-md-12 heading-branches">
-                        <p class="center"><b>Prominent Cities</b></p>
-                    </div>
-                    <div class="">
-                        <div class="col-md-2 center prom-school-div">
-                            <a href="javascript:void(0);" class="city-link">
-                                <img src="img/prom-school.svg" class="prom-school"/>
-                                <p><b>Mumbai</b></p>
-                            </a>
-                            
-                        </div>
-                        <div class="col-md-2 center prom-school-div">
-                            <a href="javascript:void(0);" class="city-link">
-                                <img src="img/prom-school.svg" class="prom-school"/>
-                                <p><b>Delhi</b></p>
-                            </a>
-                        </div>
-                        <div class="col-md-2 center prom-school-div">
-                            <a href="javascript:void(0);" class="city-link">
-                                <img src="img/prom-school.svg" class="prom-school"/>
-                                <p><b>Chennai</b></p>
-                            </a>
-                        </div>
-                        <div class="col-md-2 center prom-school-div">
-                            <a href="javascript:void(0);" class="city-link">
-                                <img src="img/prom-school.svg" class="prom-school"/>
-                                <p><b>Kolkata</b></p>
-                            </a>
-                        </div>
-                        <div class="col-md-2 center prom-school-div">
-                            <a href="javascript:void(0);" class="city-link">
-                                <img src="img/prom-school.svg" class="prom-school"/>
-                                <p><b>Punjab</b></p>
-                            </a>
-                        </div>
-                        <div class="col-md-2 center prom-school-div">
-                            <a href="javascript:void(0);" class="city-link">
-                                <img src="img/prom-school.svg" class="prom-school"/>
-                                <p><b>Jammu</b></p>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div id="demo" class="collapse">
-                    <div class="container-fluid">
-                        <div class=" col-md-12 heading-branches">
-                            <p class="center"><b>Other Cities</b></p>
-                        </div>
-                        <div class="col-md-12">
-                            <p><b>Region 1</b></p>
-                            <ul class="city-list">
-                                <li class="city-item"><a href="" class="city-link">City 1</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 2</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 3</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 4</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 5</a></li>
-                            </ul>
-                            <p><b>Region 2</b></p>
-                            <ul class="city-list">    
-                                <li class="city-item"><a href="" class="city-link">City 6</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 7</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 8</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 9</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 10</a></li>
-                            </ul>
-                            <p><b>Region 3</b></p>
-                            <ul class="city-list">
-                                <li class="city-item"><a href="" class="city-link">City 11</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 12</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 13</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 14</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 15</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 16</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 17</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 18</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 19</a></li>
-                                <li class="city-item"><a href="" class="city-link">City 20</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <a data-toggle="collapse" data-target="#demo" class="collapse-button">Show All Branches</a>
 
-                
-                
-            </div>
-            </div>
-        </div>
-    </div>
 <!-- end -->
     <!--main-->
     <script src="js/main/jquery.min.js"></script> <!--Jquery-->
