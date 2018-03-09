@@ -96,7 +96,7 @@
             <div class="grid_8 grid margin-top-none">
                 <h5 class="white nicdark_bg_blue big nicdark_radius  ui-corner-top padding overflow-relative">
                     ABOUT JUNIOR DPS
-                    <i class="icon-warning-empty nicdark_iconbg right medium blue"></i>
+                    <i class="icon-child nicdark_iconbg right medium blue"></i>
                 </h5>
                 <div class="nicdark_bg_grey nicdark_radius_bottom nicdark_shadow padding">
                     <p>The JUNIOR DPS is an elementary-school, designed to cater to the pre-schooling needs of students . It is the first structured and process driven in the fragmented space for early childhood education.</p>
@@ -108,7 +108,7 @@
             <div class="grid_8 grid margin-top-none">
                 <h5 class="white nicdark_bg_blue big nicdark_radius  ui-corner-top padding overflow-relative">
                     OUR FOCUS
-                    <i class="icon-warning-empty nicdark_iconbg right medium blue"></i>
+                    <i class="icon-child nicdark_iconbg right medium blue"></i>
                 </h5>
                 <div class="nicdark_bg_grey nicdark_radius_bottom nicdark_shadow padding">
                     <p>Our curriculum focus on imparting skill-based knowledge, using its unique Fine Petal approach and an eclectic approach. The Fine Petal approach looks at enhancing the following skills: 
@@ -127,7 +127,7 @@
             <div class="grid_8 grid margin-top-none">
                 <h5 class="white nicdark_bg_blue big nicdark_radius  ui-corner-top padding overflow-relative">
                     OUR CURRICULUM
-                    <i class="icon-warning-empty nicdark_iconbg right medium blue"></i>
+                    <i class="icon-child nicdark_iconbg right medium blue"></i>
                 </h5>
                 <div class="nicdark_bg_grey nicdark_radius_bottom nicdark_shadow padding">
                     <p>Our curriculum is based on certain principles that we have borrowed from various schools of Thought on early childhood. Based on the best practices of the various methods and approaches, such as Project Method, Multiple Intelligence, Play Way, Thematic approach and Eclectic approach.
@@ -140,7 +140,7 @@
             <div class="grid_8 grid margin-top-none">
                 <h5 class="white nicdark_bg_blue big nicdark_radius  ui-corner-top padding overflow-relative">
                     OUR OBJECTIVES
-                    <i class="icon-warning-empty nicdark_iconbg right medium blue"></i>
+                    <i class="icon-child nicdark_iconbg right medium blue"></i>
                 </h5>
                 <div class="nicdark_bg_grey nicdark_radius_bottom nicdark_shadow padding">
                     <p>
