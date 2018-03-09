@@ -1,0 +1,71 @@
+.prom-school-div{
+    text-align: center;
+}
+.prom-school{
+    width:60px;
+    margin-bottom: 10px
+}
+.mfp-content {
+    position: fixed;
+    display: inline-block;
+    left: 50%;
+    width:90%!important;
+    vertical-align: middle;
+    margin: 100px auto;
+    margin-left: -45%;
+    text-align: left;
+    z-index: 1045;
+}
+.mfp-container:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: top;
+}
+.center{
+    text-align: center;
+}
+.city-item{
+    list-style-type: none;
+    display: inline-block;
+    width: 20%;
+}
+.heading-branches{
+    text-align: center;
+    margin: 25px 0;
+}
+.display-block{
+    display: block;
+    cursor: pointer;
+}
+.modal-header .close{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+.collapse-button{
+    display: block;
+    text-align: center;
+    margin: 25px 0;
+    font-weight: 600;
+    color: rgb(79, 179, 79);
+    font-family: 'Raleway', sans-serif;
+    cursor: pointer;
+    text-decoration: none;
+}
+.collapse-button:hover{
+    text-decoration: none;
+}
+.city-list{
+    padding: 20px;
+}
+.city-link{
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 14px;
+    font-weight: 600;
+}
+.city-link:hover,.city-link:focus{
+    text-decoration: none;
+    color:333;
+}
