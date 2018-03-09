@@ -114,8 +114,13 @@ JQUERY UI
 a{
 	text-decoration: none!important;
 }
+.overflow-relative{
+	position: relative;
+    overflow: hidden;
+}
 .padding{
 	padding: 20px;
+	
 }
 .margin-top-none{
 	margin: 0 auto !important;

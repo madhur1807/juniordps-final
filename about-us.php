@@ -94,7 +94,7 @@
         <section class="grid_8 grid">
 
             <div class="grid_8 grid margin-top-none">
-                <h5 class="white nicdark_bg_blue big nicdark_radius  ui-corner-top padding">
+                <h5 class="white nicdark_bg_blue big nicdark_radius  ui-corner-top padding overflow-relative">
                     ABOUT JUNIOR DPS
                     <i class="icon-warning-empty nicdark_iconbg right medium blue"></i>
                 </h5>
@@ -106,7 +106,7 @@
             <div class="nicdark_space20"></div>
 
             <div class="grid_8 grid margin-top-none">
-                <h5 class="white nicdark_bg_blue big nicdark_radius  ui-corner-top padding">
+                <h5 class="white nicdark_bg_blue big nicdark_radius  ui-corner-top padding overflow-relative">
                     OUR FOCUS
                     <i class="icon-warning-empty nicdark_iconbg right medium blue"></i>
                 </h5>
@@ -125,7 +125,7 @@
             <div class="nicdark_space20"></div>
 
             <div class="grid_8 grid margin-top-none">
-                <h5 class="white nicdark_bg_blue big nicdark_radius  ui-corner-top padding">
+                <h5 class="white nicdark_bg_blue big nicdark_radius  ui-corner-top padding overflow-relative">
                     OUR CURRICULUM
                     <i class="icon-warning-empty nicdark_iconbg right medium blue"></i>
                 </h5>
@@ -138,7 +138,7 @@
             <div class="nicdark_space20"></div>
 
             <div class="grid_8 grid margin-top-none">
-                <h5 class="white nicdark_bg_blue big nicdark_radius  ui-corner-top padding">
+                <h5 class="white nicdark_bg_blue big nicdark_radius  ui-corner-top padding overflow-relative">
                     OUR OBJECTIVES
                     <i class="icon-warning-empty nicdark_iconbg right medium blue"></i>
                 </h5>
