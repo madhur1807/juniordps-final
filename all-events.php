@@ -155,7 +155,7 @@
                 <img alt=""  src="img/events/img1.jpg">
                 
                 <div class="nicdark_textevidence nicdark_bg_greydark">
-                    <h4 class="white nicdark_margin20">EVENT TITLE</h4>
+                    <h4 class="white nicdark_margin20">Concept Of Cleanliness</h4>
                 </div>
                 
                 <div class="nicdark_margin20">
@@ -185,7 +185,7 @@
                 <img alt=""  src="img/events/img2.jpg">
                 
                 <div class="nicdark_textevidence nicdark_bg_greydark">
-                    <h4 class="white nicdark_margin20">EVENT TITLE</h4>
+                    <h4 class="white nicdark_margin20">Quiz Competition</h4>
                 </div>
                 
                 <div class="nicdark_margin20">
@@ -215,7 +215,7 @@
                 <img alt=""  src="img/events/img3.jpg">
                 
                 <div class="nicdark_textevidence nicdark_bg_greydark">
-                    <h4 class="white nicdark_margin20">EVENT TITLE</h4>
+                    <h4 class="white nicdark_margin20">Holi Celebration</h4>
                 </div>
                 
                 <div class="nicdark_margin20">
@@ -245,7 +245,7 @@
                 <img alt=""  src="img/events/img4.jpg">
                 
                 <div class="nicdark_textevidence nicdark_bg_greydark">
-                    <h4 class="white nicdark_margin20">EVENT TITLE</h4>
+                    <h4 class="white nicdark_margin20">Spring Picnic</h4>
                 </div>
                 
                 <div class="nicdark_margin20">
@@ -276,7 +276,7 @@
                 <img alt=""  src="img/excursions/img4.jpg">
                 
                 <div class="nicdark_textevidence nicdark_bg_greydark">
-                    <h4 class="white nicdark_margin20">EVENT TITLE</h4>
+                    <h4 class="white nicdark_margin20">Valentine's Celebration</h4>
                 </div>
                 
                 <div class="nicdark_margin20">
@@ -306,7 +306,7 @@
                 <img alt=""  src="img/excursions/img6.jpg">
                 
                 <div class="nicdark_textevidence nicdark_bg_greydark">
-                    <h4 class="white nicdark_margin20">EVENT TITLE</h4>
+                    <h4 class="white nicdark_margin20">Birthday Celebration</h4>
                 </div>
                 
                 <div class="nicdark_margin20">
