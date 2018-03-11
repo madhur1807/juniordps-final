@@ -67,19 +67,19 @@
 				
 				<!--start first-->
 				<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="FRIENDS">
-					<img src="img/new/main-1.jpg"  alt="" data-lazyload="img/new/main-1.jpg" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat">
+					<img src="img/new/main-1.jpg"  alt="" data-lazyload="img/car4.jpg" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat">
 				</li>
 				<!--end first-->
 
 
 				<!--start second-->
 				<li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="LESSON">
-					<img src="img/new/main-2.jpg"  alt="" data-lazyload="img/new/main-2.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+					<img src="img/new/main-2.jpg"  alt="" data-lazyload="img/car2.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 				</li>
 				<!--end second-->
 
                 <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" data-saveperformance="on"  data-title="LESSON">
-                    <img src="img/new/main-3.jpg"  alt="" data-lazyload="img/new/main-3.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                    <img src="img/new/main-3.jpg"  alt="" data-lazyload="img/car3.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                 </li>
 			</ul>
 			
@@ -325,7 +325,7 @@
 
                 <a href="single-event.html" class="nicdark_btn nicdark_bg_greydark white medium nicdark_radius nicdark_absolute_left">21<br/><small>DEC</small></a>
 
-                <img alt=""  src="img/new/clean-1.jpeg" style="height: 29vh">
+                <img alt=""  src="img/new/clean-1.jpeg" style="height: 40vh">
                 
                 <div class="nicdark_textevidence nicdark_bg_greydark">
                     <h4 class="white nicdark_margin20">Concept Of Cleanliness</h4>
@@ -355,7 +355,7 @@
 
                 <a href="single-event.html" class="nicdark_btn nicdark_bg_greydark white medium nicdark_radius nicdark_absolute_left">10<br/><small>MAY</small></a>
 
-                <img alt="" src="img/new/holi-1.jpg" style="height: 29vh">
+                <img alt="" src="img/new/holi-1.jpg" style="height: 40vh">
                 
                 <div class="nicdark_textevidence nicdark_bg_greydark">
                     <h4 class="white nicdark_margin20">Holi Celebration</h4>
@@ -385,7 +385,7 @@
 
                 <a href="single-event.html" class="nicdark_btn nicdark_bg_greydark white medium nicdark_radius nicdark_absolute_left">24<br/><small>MAR</small></a>
 
-                <img alt=""  src="img/new/spring-1.jpg">
+                <img alt=""  src="img/new/spring-1.jpg" style="height: 40vh">
                 
                 <div class="nicdark_textevidence nicdark_bg_greydark">
                     <h4 class="white nicdark_margin20">Spring Picnic</h4>
@@ -415,7 +415,7 @@
 
                 <a href="single-event.html" class="nicdark_btn nicdark_bg_greydark white medium nicdark_radius nicdark_absolute_left">30<br/><small>DEC</small></a>
 
-                <img alt=""  src="img/new/quiz-1.jpg">
+                <img alt=""  src="img/new/quiz-1.jpg" style="height: 40vh">
                 
                 <div class="nicdark_textevidence nicdark_bg_greydark">
                     <h4 class="white nicdark_margin20">Quiz Competition</h4>
