@@ -103,7 +103,7 @@
                         <div class="nicdark_activity nicdark_marginleft100 nicdark_disable_marginleft_ipadpotr">
                             <h4>Address</h4>                        
                             <div class="nicdark_space20"></div>
-                            <p>Times Square 58, New York<br/>(00) 520 990 759</p>
+                            <p>B3/39, Janakpuri,<br>Next to : Andhra Education Society<br>New Delhi - 110058</p>
                         </div>
                 </div>
             </div>
@@ -117,7 +117,7 @@
                         <div class="nicdark_activity nicdark_marginleft100 nicdark_disable_marginleft_ipadpotr">
                             <h4>Call Us</h4>                        
                             <div class="nicdark_space20"></div>
-                            <p>Brodway 358, New York<br/>(00) 520 990 759</p>
+                            <p>011-49122557, +91-9560740127<br/>011-27177771, +91-7065534441</p>
                         </div>
                 </div>
             </div>
@@ -131,7 +131,7 @@
                         <div class="nicdark_activity nicdark_marginleft100 nicdark_disable_marginleft_ipadpotr">
                             <h4 class="white">M@IL US</h4>                        
                             <div class="nicdark_space20"></div>
-                            <p class="white">info@babykids.com <br/>registration@babykids.com</p>
+                            <p class="white">info@juniordps.com</p>
                         </div>
                 </div>
             </div>

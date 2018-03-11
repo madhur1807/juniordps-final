@@ -12,7 +12,7 @@
                             &nbsp;&nbsp;&nbsp;&nbsp;<span class="grey">·</span>&nbsp;&nbsp;&nbsp;&nbsp;
                             <!-- <i class="icon-pencil-1"></i>&nbsp;&nbsp;<a class="white" href="blog-masonry.html">NEWS</a> -->
                             <!-- &nbsp;&nbsp;&nbsp;&nbsp; --><!-- <span class="grey">·</span> -->
-                            <i class="icon-phone-outline"></i>&nbsp;&nbsp;<a class="white" href="javascript:void(0)">(00) +51278934</a>
+                            <i class="icon-phone-outline"></i>&nbsp;&nbsp;<a class="white" href="javascript:void(0)"> 011-49122557</a>
                         </h6>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                         <div class="nicdark_space20"></div>
 
                         <div class="nicdark_logo nicdark_marginleft10">
-                            <a href="index-2.html"><img alt="" src="img/logo-r.png"></a>
+                            <a href="index.php"><img alt="" src="img/logo-r.png"></a>
                         </div>
 
                         <!-- <a class="nicdark_btn_icon nicdark_zoom nicdark_bg_yellow_hover nicdark_right_sidebar_btn_open nicdark_marginright10 nicdark_bg_orange extrasmall nicdark_radius white right"><i class="icon-basket-1"></i></a> -->
@@ -99,13 +99,13 @@
                                     </ul>
                                 </li> -->
                                 <li class="yellow">
-                                    <a href="index-2.php">HOME</a>
+                                    <a href="index.php">HOME</a>
                                 </li>
                                 <li class="orange">
                                     <a href="about-us.php">ABOUT US</a>
                                     <ul class="sub-menu">
                                         <li><a href="infrastructure.php">INFRASTRUCTURE</a></li>
-                                        <li><a href="courses1.php">COURSES</a></li>
+                                        <li><a href="courses.php">COURSES</a></li>
                                     </ul>
                                 </li>
                                 <li class="red">

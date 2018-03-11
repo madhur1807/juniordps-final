@@ -154,61 +154,64 @@
 
     <div align="center" class="grid_12">
         <button class="btn btn-default filter-button" data-filter="all">All</button>
-        <button class="btn btn-default filter-button" data-filter="hdpe">HDPE Pipes</button>
-        <button class="btn btn-default filter-button" data-filter="sprinkle">Sprinkle Pipes</button>
-        <button class="btn btn-default filter-button" data-filter="spray">Spray Nozzle</button>
-        <button class="btn btn-default filter-button" data-filter="irrigation">Irrigation Pipes</button>
+        <button class="btn btn-default filter-button" data-filter="quiz">QUIZ Competition</button>
+        <button class="btn btn-default filter-button" data-filter="spring">Spring Picnic</button>
+        <button class="btn btn-default filter-button" data-filter="holi">Holi Celebration</button>
+        <button class="btn btn-default filter-button" data-filter="clean">Cleanliness</button>
     </div>
     <br/>
 
 
 
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter clean">
+            <img src="img/new/clean-1.jpeg" class="img-responsive">
         </div>
 
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter clean">
+            <img src="img/new/clean-2.jpeg" class="img-responsive">
         </div>
 
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter clean">
+            <img src="img/new/clean-3.jpeg" class="img-responsive">
         </div>
 
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter clean">
+            <img src="img/new/clean-4.jpeg" class="img-responsive">
         </div>
 
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter holi">
+            <img src="img/new/holi-1.jpg" class="img-responsive">
         </div>
 
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter holi">
+            <img src="img/new/holi-2.jpg" class="img-responsive">
         </div>
 
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter holi">
+            <img src="img/new/holi-3.jpg" class="img-responsive">
         </div>
 
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spring">
+            <img src="img/new/spring-1.jpg" class="img-responsive">
         </div>
 
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spring">
+            <img src="img/new/spring-2.jpg" class="img-responsive">
         </div>
 
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spring">
+            <img src="img/new/spring-3.jpg" class="img-responsive">
         </div>
 
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter quiz">
+            <img src="img/new/quiz-1.jpg" class="img-responsive">
         </div>
 
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter quiz">
+            <img src="img/new/quiz-2.jpg" class="img-responsive">
+        </div>
+        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter quiz">
+            <img src="img/new/quiz-3.jpg" class="img-responsive">
         </div>
     </div>
 </div>

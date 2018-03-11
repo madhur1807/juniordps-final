@@ -15,13 +15,11 @@
                 <div class="nicdark_divider left small"><span class="nicdark_bg_white nicdark_radius"></span></div>
                 <div class="nicdark_space20"></div>
                 <p class="white">
-                RZ, 1/A Ashok Park<br>
+                B3/39, Janakpuri,<br>
+                Next to : Andhra Education Society<br>
+                New Delhi - 110058<br>
 
-                West Sagarpur<br>
-
-                New Delhi-110046<br>
-
-                Ph. -  011-32406444
+                Ph. -  011-27177771
                 </p>
                 <div class="nicdark_space20"></div>
                 <div class="nicdark_divider left small"><span class="nicdark_bg_white nicdark_radius"></span></div>
@@ -145,7 +143,7 @@
 
         <div class="grid grid_6 nicdark_aligncenter_iphoneland nicdark_aligncenter_iphonepotr">
             <div class="nicdark_space20"></div>
-            <p class="grey"><a  href="https://foryouitsolutions.github.io/" target="_blank"><b>FYITS</b></a>Â©2018. All Rights Reserved | Design by <a href="https://foryouitsolutions.github.io/" target="_blank"><b>FYITS</b></a></p>
+            <p class="grey"><a  href="https://foryouitsolutions.github.io/" target="_blank"><b>FYITS</b></a>©2018. All Rights Reserved | Design by <a href="https://foryouitsolutions.github.io/" target="_blank"><b>FYITS</b></a></p>
         </div>
 
 

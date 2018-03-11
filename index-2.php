@@ -67,17 +67,21 @@
 				
 				<!--start first-->
 				<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="FRIENDS">
-					<img src="img/slide/img3.jpg"  alt="" data-lazyload="img/slide/img3.jpg" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat">
+					<img src="img/new/main-1.jpg"  alt="" data-lazyload="img/new/main-1.jpg" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="repeat">
 				</li>
 				<!--end first-->
 
 
 				<!--start second-->
 				<li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="LESSON">
-					<img src="img/slide/img8.jpg"  alt="" data-lazyload="img/slide/img8.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+					<img src="img/new/main-2.jpg"  alt="" data-lazyload="img/new/main-2.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat">
 				</li>
 				<!--end second-->
 
+
+                <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" data-saveperformance="on"  data-title="LESSON">
+                    <img src="img/new/main-3.jpg"  alt="" data-lazyload="img/new/main-3.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat">
+                </li>
 			</ul>
 			
 		</div>
